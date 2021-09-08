@@ -1,0 +1,38 @@
+#forma-registracija {
+	margin-top: 50px;
+}
+#forma-registracija h1{
+	margin-bottom: 30px;
+}
+.navbar {
+	border-radius: 0px;
+}
+#right-navbar-drop li {
+	cursor: pointer;
+}
+#poruka-ikonica {
+	font-size: 37px;
+}
+.poruke-holder {
+	border-radius: 4px;
+	padding: 5px;
+	border: 1px solid black;
+	margin-bottom: 10px;
+}
+.poruke-holder button {
+	margin-top: 9px;
+	font-size: 11px;
+
+}
+#tip_profila_holder {
+	min-height: 224px;
+}
+#poruke_holder_glavni {
+	min-height: 407px;
+}
+#linkZaSliku {
+	cursor: pointer;
+}
+#map {
+    height: 300px;
+}
